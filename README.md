@@ -9,4 +9,4 @@
  
  To make the candel graph I have used syncfusion_flutter_charts package and dart async and dart convert package for accessing the given json file 
  
- [I'm an inline-style link with title](https://github.com/sanjayjr/graph_candelstick_/tree/main "Created logic for sorting json data and making candlestick in Python")
+ [Click this link to access the github repo where we Created logic for sorting json data and making candlestick in Python ](https://github.com/sanjayjr/graph_candelstick_/tree/main "Created logic for sorting json data and making candlestick in Python")
