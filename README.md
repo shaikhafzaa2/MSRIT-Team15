@@ -9,6 +9,6 @@
  
  [![Screenshot-1630612954.png](https://i.postimg.cc/fRwdmVM7/Screenshot-1630612954.png)](https://postimg.cc/9rnzjFRz)
  
- To make the candel graph I have used syncfusion_flutter_charts package and dart async and dart convert package for accessing the given json file 
+ To make the candle graph I have used syncfusion_flutter_charts package and dart async and dart convert package for accessing the given json file 
  
  
